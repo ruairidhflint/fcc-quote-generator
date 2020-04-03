@@ -1,11 +1,17 @@
 import React from 'react';
 
-function QuoteContainer() {
-    return(
-        <div id='quote-box'>
+const dummyQuote = {
+  quote: 'Life isn’t about getting and having, it’s about giving and being.',
+  author: 'Kevin Kruse',
+};
 
-        </div>
-    )
+function QuoteContainer() {
+  return (
+  <div id="quote-box">
+      
+  </div>
+  );
+
 }
 
 export default QuoteContainer;
