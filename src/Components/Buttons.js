@@ -4,7 +4,7 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 function Buttons() {
     return(
-        <div class="buttons">
+        <div className="buttons">
             <a href='https://twitter.com/intent/tweet' id="tweet-quote"><FontAwesomeIcon icon={faTwitter}/></a>
             <button id="new-quote">New Quote</button>
             
