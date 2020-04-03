@@ -1,3 +1,5 @@
+// Credit - https://gist.github.com/nasrulhazim/54b659e43b1035215cd0ba1d4577ee80
+
 export const quotes = [
   {
     quote: 'Life isn’t about getting and having, it’s about giving and being.',
